@@ -1,0 +1,4 @@
+module shlib {
+    header "Color.h"
+    export *
+}
